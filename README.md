@@ -1,7 +1,7 @@
 # A_pacificum
 
 
-R codes for analyses from the article "Functional niche partitioning occurs over body size but not nutrient reserves nor melanism in a polar carabid beetle along an altitudinal gradient" by Espel et al., Insects MDPI (in prep)
+R codes for analyses from the article "Functional niche partitioning occurs over body size but not nutrient reserves nor melanism in a polar carabid beetle along an altitudinal gradient" by Espel D., Coux C., Pertierra L.R., Eymar-Dauphin P, Lembrechts J.J., Renault D. submitted in Insects
 
 The raw data is in the csv file in the /data folder.
 
